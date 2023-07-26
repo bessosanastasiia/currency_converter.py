@@ -17,4 +17,4 @@ to_currency = input("To currency: ")
 
 converted_amount = currency_converter(amount, from_currency.upper(), to_currency.upper())
 
-print(f"\n{amount} {from_currency.upper()} is equal to {converted_amount} {to_currency.upper()}")
+print(f"\n{amount} {from_currency.upper()} is equal to {converted_amount} {to_currency.upper()}").
